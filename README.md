@@ -1,1 +1,4 @@
 # TimeTrecker
+
+## STARTING
+```npm start```
